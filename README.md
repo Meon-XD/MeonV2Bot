@@ -70,39 +70,21 @@ whatsapp-bot/
 
 ### Di Termux
 ```bash
-# Update dan upgrade
+
 pkg update && pkg upgrade
-
-# Install dependencies
 pkg install nodejs git ffmpeg imagemagick
-
-# Install npm global
 npm install -g npm
-
-# Clone atau download bot
 git clone <repository-url>
 cd whatsapp-bot
-
-# Install dependencies
 npm install
-
-# Jalankan bot
 npm start
 ```
 
 ### Di Komputer/PC
 ```bash
-# Install Node.js (v18+)
-# Download dari https://nodejs.org/
-
-# Clone atau download bot
 git clone <repository-url>
-cd whatsapp-bot
-
-# Install dependencies
+cd MeonV2Bot
 npm install
-
-# Jalankan bot
 npm start
 ```
 
@@ -112,8 +94,8 @@ Edit file `settings.json` sesuai kebutuhan:
 
 ```json
 {
-  "botName": "WhiskeyBot",
-  "ownerName": "OwnerKeren",
+  "botName": "MeonBot",
+  "ownerName": "Meon",
   "ownerNumber": "6281234567890",
   "botNumber": "6281234567890",
   "prefix": "!",
@@ -205,9 +187,9 @@ Jika menemukan bug, silakan buat issue di repository ini dengan format:
 ## 📞 Kontak
 
 - **Owner**: OwnerKeren
-- **WhatsApp**: wa.me/6281234567890
-- **GitHub**: https://github.com/whiskeybot
+- **WhatsApp**: wa.me/6287744811004
+- **GitHub**: https://github.com/Meon-XD
 
 ---
 
-© 2024 WhiskeyBot. Made with ❤️ by OwnerKeren# MeonV2Bot
+© 2024 WhiskeyBot. Made with ❤️ by Meon# MeonV2Bot
