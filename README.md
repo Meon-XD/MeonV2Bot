@@ -210,4 +210,4 @@ Jika menemukan bug, silakan buat issue di repository ini dengan format:
 
 ---
 
-© 2024 WhiskeyBot. Made with ❤️ by OwnerKeren
+© 2024 WhiskeyBot. Made with ❤️ by OwnerKeren# MeonV2Bot
