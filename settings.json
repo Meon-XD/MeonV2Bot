@@ -1,0 +1,28 @@
+{
+  "botName": "MeonBot",
+  "ownerName": "Meonn XD",
+  "prefix": ".",
+  "botNumber": "6285180782066@s.whatsapp.net",
+  "ownerNumber": "6287744811004@s.whatsapp.net",
+  "selfBot": false,
+  "autoRead": true,
+  "groupSettings": {
+    "welcomeMessage": true,
+    "antiLink": false,
+    "antiSpam": false,
+    "leaveMessage": true
+  },
+  "premiumUsers": [
+    "6287744811004@s.whatsapp.net"
+  ],
+  "features": {
+    "youtubeDownloader": true,
+    "tiktokDownloader": true,
+    "facebookDownloader": true,
+    "googleSearch": true,
+    "aiChat": true,
+    "stickerMaker": true,
+    "imageToPdf": true,
+    "voiceNote": true
+  }
+}
