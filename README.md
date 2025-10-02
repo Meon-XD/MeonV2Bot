@@ -1,4 +1,4 @@
-# 🤖 WhatsApp Bot - WhiskeyBot
+# 🤖 WhatsApp Bot - Meon Bot
 
 WhatsApp Bot lengkap berbasis Baileys dengan fitur-fitur canggih yang dapat dijalankan di Termux maupun komputer.
 
@@ -74,7 +74,7 @@ whatsapp-bot/
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg imagemagick
 npm install -g npm
-git clone <repository-url>
+git clone https://github.com/Meon-XD/MeonV2Bot
 cd whatsapp-bot
 npm install
 npm start
@@ -82,7 +82,7 @@ npm start
 
 ### Di Komputer/PC
 ```bash
-git clone <repository-url>
+git clone https://github.com/Meon-XD/MeonV2Bot
 cd MeonV2Bot
 npm install
 npm start
@@ -98,7 +98,7 @@ Edit file `settings.json` sesuai kebutuhan:
   "ownerName": "Meon",
   "ownerNumber": "6281234567890",
   "botNumber": "6281234567890",
-  "prefix": "!",
+  "prefix": ".",
   "autoRead": true,
   "autoReply": true,
   "selfBot": false,
