@@ -75,7 +75,7 @@ pkg update && pkg upgrade
 pkg install nodejs git ffmpeg imagemagick
 npm install -g npm
 git clone https://github.com/Meon-XD/MeonV2Bot
-cd whatsapp-bot
+cd MeonV2Bot
 npm install
 npm start
 ```
